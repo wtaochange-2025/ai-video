@@ -1,3 +1,12 @@
+
+# https://geminigen.ai/app/video-gen/veo
+
+prompt:
+
+卡通在一个演播厅中，在麦克风前唱歌：
+感谢你我亲爱的观众朋友，关注点赞分留言，分享每分每秒
+
+
 # ai-video
 
 豆包
