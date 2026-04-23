@@ -5,6 +5,11 @@ prompt:
 
 在演播厅中，一个卡通男孩唱歌： 我亲爱的观众朋友，欢迎来到我的频道 如果你喜欢我的视频，关注点赞留言，分享每分每秒
 
+Thank you, my dear viewers, and welcome to my channel! 
+If you enjoy my videos, please subscribe, like, comment, and share every moment!
+
+Merci à vous, chers abonnés, et bienvenue sur ma chaîne !
+Si mes vidéos vous plaisent, n'hésitez pas à vous abonner, à aimer, à commenter et à partager !
 
 # ai-video
 
